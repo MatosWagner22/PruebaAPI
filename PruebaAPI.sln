@@ -7,8 +7,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PruebaAPI", "PruebaAPI.cspr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PruebaWEB", "..\PruebaWEB\PruebaWEB.csproj", "{460BBBED-9619-4C09-901F-A2BA5B170183}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder1", "NewFolder1", "{B10A0A82-C55D-4E5F-A0F1-C769E1BA49B0}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SeleniumAutomation", "..\SeleniumAutomation 1\SeleniumAutomation\SeleniumAutomation\SeleniumAutomation.csproj", "{C8F00E49-8FD9-4E45-AF0C-D811E229AF7F}"
 EndProject
 Global
